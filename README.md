@@ -29,7 +29,7 @@ Quando desligo o terminal para relaxar, você me encontra simulando nas pistas:
 ---
 
 ## 📬 Vamos Conversar?
-Se quiser trocar uma ideia sobre programação, mecânica ou jogos de simulação, me encontre aqui:
+Se quiser trocar uma ideia sobre programação ou jogos de simulação, me encontre aqui:
 
 * 📧 **E-mail:** [alancamargo99@hotmail.com](mailto:alancamargo99@hotmail.com)
 * 🌐 **LinkedIn:** [Alan Camargo]([https://linkedin.com](https://www.linkedin.com/in/alanscamargo/))
