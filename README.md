@@ -15,6 +15,8 @@
 
 ### 🗺️ Próximas Pistas (O que quero aprender em breve)
 * **JavaScript** — Para colocar motor e dar autonomia para as páginas.
+* **TypeScript** — Adicionando um sistema de segurança e injeção eletrônica para evitar falhas no código.
+* **React** — Para construir componentes modulares e turbinar o desempenho da interface.
 * **GitHub Avançado** — Compartilhar meus projetos com a comunidade.
 
 ---
