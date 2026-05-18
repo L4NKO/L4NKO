@@ -22,3 +22,24 @@ Estudante de programação de 33 anos, focado na base da web e entusiasta de sim
 
 ## 📬 Contato
 📧 [alancamargo.dev@gmail.com](mailto:alancamargo.dev@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/alanscamargo/)
+
+
+<h3 align="left">GitHub Stats</h3>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=L4NKO&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=L4NKO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+</p>
