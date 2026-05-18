@@ -21,7 +21,7 @@ Estudante de programação de 33 anos, focado na base da web e entusiasta de sim
 ---
 
 ## 📬 Contato
-[<img alt="Gmail" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg?short_path=e7cf6d1" width=30px />](mailto:alancamargo.dev@gmail.com)   [<img alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=30px />](https://www.linkedin.com/in/alanscamargo/)   [<img alt="Instagram" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg?short_path=d0c668a" width=30px />](https://www.instagram.com/alanscamargo_/)
+[<img alt="Gmail" tittle="Gmail" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg?short_path=e7cf6d1" width=30px />](mailto:alancamargo.dev@gmail.com)   [<img alt="Linkedin" tittle="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=30px />](https://www.linkedin.com/in/alanscamargo/)   [<img alt="Instagram" tittle="Instagram" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg?short_path=d0c668a" width=30px />](https://www.instagram.com/alanscamargo_/)
 
 
 <h3 align="left">GitHub Stats</h3>
