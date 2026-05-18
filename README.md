@@ -1,45 +1,24 @@
-# 👋 Olá, bem-vindo(a) à minha garagem de códigos!
-
-## 🛠️ Sobre Mim
-Me chamo **Alan Camargo**, tenho 33 anos e sou estudante de programação. 
-
-Aqui na minha oficina, estou montando páginas com HTML/CSS peça por peça (igual no *My Summer Car*), enquanto tento não explodir o Terminal usando Git! 🚗🔧  
-Estou acelerando forte no aprendizado de desenvolvimento web e pegando tração nas linhas de comando.
-
+# 👋 Olá, sou o Alan Camargo!
+Estudante de programação de 33 anos, focado na base da web e entusiasta de simuladores. 🏎️💨
 
 ---
 
-## 🧰 Minha Garagem (Tecnologias & Ferramentas)
-
-### 🏎️ Na Pista (O que estou usando e estudando)
-* **HTML5** — Estruturando o chassi dos meus projetos.
-* **CSS3** — Cuidando da pintura, design e aerodinâmica das páginas.
-* **Terminal & Git** — Meu painel de controle e sistema de *Save Game* para versionar código.
-
-### 🗺️ Próximas Pistas (O que quero aprender em breve)
-* **JavaScript** — Para colocar motor e dar autonomia para as páginas.
-* **TypeScript** — Adicionando um sistema de segurança e injeção eletrônica para evitar falhas no código.
-* **React** — Para construir componentes modulares e turbinar o desempenho da interface.
-* **GitHub Avançado** — Compartilhar meus projetos com a comunidade.
+## 🛠️ Na Oficina (Status Atual)
+* 🚗 **HTML & CSS** — Montando páginas peça por peça, estilo *My Summer Car*.
+* 💻 **Terminal & Git** — Pilotando as linhas de comando sem capotar o código.
 
 ---
 
-## 🎮 No Banco do Piloto (Jogos Favoritos)
-Quando desligo o terminal para relaxar, você me encontra simulando nas pistas:
-* 🔧 **My Summer Car** (Montando projetos e passando raiva, igual na programação)
-* 🌲 **SnowRunner** (Saindo do atoleiro)
-* 🏁 **DiRT Rally 2.0** & **Jogos de Motocross** (Acelerando forte)
-* 🚚 **American Truck Simulator** (Fazendo entregas na calmaria)
+## 🗺️ Próximas Pistas (Objetivos)
+* ⚡ **JavaScript & TypeScript** — Para dar motor e segurança aos projetos.
+* ⚛️ **React** — Para turbinar o desempenho das interfaces.
 
 ---
 
-## 📬 Vamos Conversar?
-Se quiser trocar uma ideia sobre programação ou jogos de simulação, me encontre aqui:
-
-* 📧 **E-mail:** [alancamargo99@hotmail.com](mailto:alancamargo99@hotmail.com)
-* 🌐 **LinkedIn:** [Alan Camargo](https://www.linkedin.com/in/alanscamargo/)
+## 🕹️ No Banco do Piloto (Jogos)
+* `My Summer Car` • `SnowRunner` • `DiRT Rally 2.0` • `American Truck Simulator` • `Motocross`
 
 ---
-<p align="center">
-  <i>"Acelerando no código, simulando nas pistas."</i>
-</p>
+
+## 📬 Contato
+📧 [alancamargo.dev@gmail.com](mailto:alancamargo.dev@gmail.com) | 🌐 [LinkedIn](www.linkedin.com/in/alanscamargo)
