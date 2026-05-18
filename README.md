@@ -21,4 +21,4 @@ Estudante de programação de 33 anos, focado na base da web e entusiasta de sim
 ---
 
 ## 📬 Contato
-📧 [alancamargo.dev@gmail.com](mailto:alancamargo.dev@gmail.com) | 🌐 [LinkedIn](www.linkedin.com/in/alanscamargo)
+📧 [alancamargo.dev@gmail.com](mailto:alancamargo.dev@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/alanscamargo/)
