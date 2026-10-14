@@ -1,5 +1,5 @@
 # 👋 Olá, sou o Alan Camargo!
-Estudante de programação de 33 anos, focado na base da web e entusiasta de simuladores. 🏎️💨
+Estudante de programação de 34 anos, focado na base da web e entusiasta de simuladores. 🏎️💨
 
 ---
 
