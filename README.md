@@ -1,23 +1,24 @@
 # 👋 Olá, sou o Alan Camargo!
-Estudante de programação de 34 anos, focado na base da web e entusiasta de simuladores. 🏎️💨
 
----
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Unyleya, atualmente no 2º semestre.
 
-## 🛠️ Na Oficina (Status Atual)
-* 🚗 **HTML & CSS** — Montando páginas peça por peça, estilo *My Summer Car*.
-* 💻 **Terminal & Git** — Pilotando as linhas de comando sem capotar o código.
+💻 Em transição de carreira para a área de tecnologia, com foco em Desenvolvimento Front-end.
 
----
+🚀 Desenvolvendo projetos práticos para aprimorar meus conhecimentos e conquistar minha primeira oportunidade de estágio.
 
-## 🗺️ Próximas Pistas (Objetivos)
-* ⚡ **JavaScript & TypeScript** — Para dar motor e segurança aos projetos.
-* ⚛️ **React** — Para turbinar o desempenho das interfaces.
+🛠️ Tecnologias e ferramentas
 
----
+Front-end: HTML5, CSS3 e JavaScript (em aprendizado)
 
-## 🕹️ No Banco do Piloto (Jogos)
-* `My Summer Car` • `SnowRunner` • `DiRT Rally 2.0` • `American Truck Simulator` • `Motocross`
+Ferramentas: Git, GitHub e VS Code
 
+Conceitos: Flexbox, CSS Grid, responsividade e manipulação do DOM
+
+📂 Projetos em destaque
+
+SyntaxWear — Interface de e-commerce responsiva com HTML e CSS.
+
+Relógio Digital — Relógio interativo desenvolvido com HTML, CSS e JavaScript.
 ---
 
 ## 📬 Contato
