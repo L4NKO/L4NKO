@@ -14,11 +14,12 @@ Ferramentas: Git, GitHub e VS Code
 
 Conceitos: Flexbox, CSS Grid, responsividade e manipulação do DOM
 
-📂 Projetos em destaque
+### 📁 Projetos em destaque
 
-SyntaxWear — Interface de e-commerce responsiva com HTML e CSS.
+- **[SyntaxWear](https://github.com/L4NKO/ecommerce-syntaxwear)** — Interface de e-commerce responsiva com HTML e CSS.
 
-Relógio Digital — Relógio interativo desenvolvido com HTML, CSS e JavaScript.
+- **[Relógio Digital](https://github.com/L4NKO/relogio-digital)** — Relógio interativo desenvolvido com HTML, CSS e JavaScript.
+- 
 ---
 
 ## 📬 Contato
