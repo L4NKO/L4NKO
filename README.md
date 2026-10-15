@@ -19,7 +19,7 @@ Conceitos: Flexbox, CSS Grid, responsividade e manipulação do DOM
 - **[SyntaxWear](https://github.com/L4NKO/ecommerce-syntaxwear)** — Interface de e-commerce responsiva com HTML e CSS.
 
 - **[Relógio Digital](https://github.com/L4NKO/relogio-digital)** — Relógio interativo desenvolvido com HTML, CSS e JavaScript.
-- 
+  
 ---
 
 ## 📬 Contato
