@@ -10,11 +10,17 @@
 
 Front-end: HTML5, CSS3 e JavaScript (em aprendizado)
 
-Ferramentas: Git, GitHub e VS Code
+JavaScript: DOM, eventos, funções, arrays, Fetch API e Async/Await (em aprendizado)
 
-Conceitos: Flexbox, CSS Grid, responsividade e manipulação do DOM
+Estilização: Flexbox, CSS Grid, Media Queries e responsividade
+
+Ferramentas: Git, GitHub, VS Code e Figma (em aprendizado)
+
+Conceitos: HTML semântico, acessibilidade básica e Clean Code
 
 ### 📁 Projetos em destaque
+
+- **[LANKO STORE](https://l4nko.github.io/lanko-store)** — E-commerce responsivo com HTML, CSS e JavaScript, integração com Fake Store API, tema claro/escuro e interatividade.
 
 - **[SyntaxWear](https://github.com/L4NKO/ecommerce-syntaxwear)** — Interface de e-commerce responsiva com HTML e CSS.
 
